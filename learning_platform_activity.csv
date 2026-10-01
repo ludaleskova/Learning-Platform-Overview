@@ -1,0 +1,501 @@
+date,user_id,course,course_category,mentor,region,device_type,sessions_count,study_minutes,lessons_completed,homeworks_submitted,homeworks_late,payment_amount,refund_flag,satisfaction_score
+2025-04-13,U052,UX Design,Design,Kateryna,Europe,Mobile,2,14,1,1,0,0,0,6.0
+2025-01-30,U038,SQL Fundamentals,Analytics,Dmytro,Europe,Desktop,2,99,0,0,0,0,0,9.0
+2025-03-03,U062,UI Design,Design,Kateryna,Europe,Laptop,1,40,2,2,2,150,0,3.0
+2025-03-31,U053,SQL Fundamentals,Analytics,Dmytro,Asia,Laptop,0,58,1,0,0,0,0,
+2025-04-14,U004,SQL Fundamentals,Analytics,Dmytro,Europe,Desktop,1,69,3,3,2,120,0,8.0
+2025-03-28,U062,UX Design,Design,Kateryna,Europe,Desktop,2,41,2,1,0,150,0,6.0
+2025-01-08,U088,Python Basics,Programming,Andrii,Europe,Laptop,6,67,1,1,0,100,0,5.0
+2025-03-06,U099,UX Design,Design,Kateryna,South America,Mobile,2,70,1,1,1,100,0,6.0
+2025-04-04,U101,UX Design,Design,Kateryna,Asia,Desktop,5,71,1,1,0,150,0,9.0
+2025-04-02,U089,UI Design,Design,Kateryna,Europe,Desktop,3,10,2,2,0,0,0,9.0
+2025-02-28,U118,Data Analytics,Analytics,Olena,Europe,Desktop,1,107,3,3,3,0,0,4.0
+2025-01-02,U092,UI Design,Design,Kateryna,Europe,Desktop,3,139,3,3,0,0,0,8.0
+2025-01-24,U069,Machine Learning Intro,Analytics,Olena,South America,Desktop,2,133,2,1,0,0,0,4.0
+2025-03-08,U019,Machine Learning Intro,Analytics,Olena,Asia,Desktop,3,51,1,0,0,150,0,6.0
+2025-01-16,U090,Data Analytics,Analytics,Olena,Asia,Desktop,4,103,0,0,0,150,0,3.0
+2025-01-24,U116,Python Basics,Programming,Andrii,South America,Mobile,4,45,0,0,0,100,0,6.0
+2025-02-02,U068,Data Analytics,Analytics,Olena,Asia,Desktop,3,94,5,5,1,100,0,5.0
+2025-02-23,U008,Python Basics,Programming,Andrii,Europe,Desktop,3,158,1,1,0,150,0,8.0
+2025-04-27,U006,Python Basics,Programming,Andrii,North America,Mobile,2,46,1,1,0,100,0,8.0
+2025-02-27,U067,UI Design,Design,Kateryna,Europe,Laptop,2,85,2,2,1,100,0,9.0
+2025-01-26,U099,SQL Fundamentals,Analytics,Dmytro,North America,Mobile,3,103,2,1,0,100,1,9.0
+2025-03-04,U086,Python Basics,Programming,Andrii,Asia,Laptop,2,48,1,1,1,0,0,7.0
+2025-04-13,U068,UI Design,Design,Kateryna,Europe,Laptop,4,106,1,1,0,0,0,7.0
+2025-03-31,U117,UI Design,Design,Kateryna,North America,Laptop,1,60,1,1,0,120,0,7.0
+2025-04-13,U064,UX Design,Design,Kateryna,Asia,Laptop,1,67,3,3,1,100,0,8.0
+2025-04-11,U023,SQL Fundamentals,Analytics,Dmytro,Asia,Laptop,0,118,0,0,0,150,0,
+2025-01-04,U016,SQL Fundamentals,Analytics,Dmytro,Europe,Laptop,3,138,0,0,0,100,0,4.0
+2025-02-12,U044,UX Design,Design,Kateryna,Europe,Desktop,0,83,1,1,0,120,1,
+2025-02-03,U115,Data Analytics,Analytics,Olena,Asia,Laptop,2,88,1,1,0,100,0,5.0
+2025-04-22,U036,SQL Fundamentals,Analytics,Dmytro,Europe,Laptop,2,109,2,2,0,100,0,3.0
+2025-03-27,U013,Python Basics,Programming,Andrii,Europe,Desktop,5,49,1,1,0,100,0,7.0
+2025-01-23,U016,Data Analytics,Analytics,Olena,Europe,Mobile,2,84,3,3,2,120,0,3.0
+2025-04-12,U007,UI Design,Design,Kateryna,North America,Desktop,2,31,0,0,0,150,0,6.0
+2025-02-05,U070,Machine Learning Intro,Analytics,Olena,Europe,Mobile,3,65,1,1,0,0,0,7.0
+2025-04-15,U039,Data Analytics,Analytics,Olena,Asia,Desktop,2,10,3,2,2,100,0,8.0
+2025-03-26,U075,Machine Learning Intro,Analytics,Olena,Europe,Laptop,4,111,3,2,0,0,0,8.0
+2025-03-17,U024,Machine Learning Intro,Analytics,Olena,Europe,Desktop,2,51,0,0,0,100,1,3.0
+2025-02-02,U117,Machine Learning Intro,Analytics,Olena,Asia,Desktop,0,125,0,0,0,0,0,
+2025-01-30,U114,Python Basics,Programming,Andrii,Europe,Desktop,3,23,3,2,1,120,0,5.0
+2025-01-01,U021,UI Design,Design,Kateryna,Asia,Laptop,5,52,1,1,0,0,0,3.0
+2025-04-23,U104,SQL Fundamentals,Analytics,Dmytro,Europe,Desktop,4,136,3,2,0,0,0,9.0
+2025-01-23,U079,UX Design,Design,Kateryna,Asia,Laptop,1,23,3,3,2,0,0,8.0
+2025-04-07,U088,Machine Learning Intro,Analytics,Olena,Europe,Laptop,5,78,1,1,0,100,0,9.0
+2025-01-23,U055,Python Basics,Programming,Andrii,Europe,Laptop,1,73,2,2,0,0,0,5.0
+2025-01-21,U005,SQL Fundamentals,Analytics,Dmytro,Europe,Desktop,0,71,0,0,0,100,0,
+2025-02-14,U027,Data Analytics,Analytics,Olena,Europe,Laptop,2,80,2,2,1,0,0,6.0
+2025-03-28,U078,SQL Fundamentals,Analytics,Dmytro,North America,Desktop,3,45,2,2,0,0,0,3.0
+2025-04-29,U101,Machine Learning Intro,Analytics,Olena,Europe,Desktop,1,125,2,2,0,0,0,9.0
+2025-03-27,U034,Data Analytics,Analytics,Olena,Asia,Desktop,3,12,1,0,0,0,0,7.0
+2025-03-11,U070,Machine Learning Intro,Analytics,Olena,North America,Desktop,1,98,2,2,2,100,0,8.0
+2025-02-26,U066,Python Basics,Programming,Andrii,Asia,Desktop,2,83,0,0,0,0,0,4.0
+2025-01-14,U064,UI Design,Design,Kateryna,Asia,Desktop,2,49,1,1,1,0,0,4.0
+2025-03-25,U065,UX Design,Design,Kateryna,Europe,Desktop,3,88,2,2,1,150,0,5.0
+2025-02-04,U001,UI Design,Design,Kateryna,Europe,Mobile,4,94,0,0,0,0,0,4.0
+2025-03-30,U018,UI Design,Design,Kateryna,North America,Laptop,3,95,0,0,0,0,0,9.0
+2025-02-20,U070,UI Design,Design,Kateryna,Europe,Laptop,1,74,3,3,1,150,0,7.0
+2025-04-11,U027,Data Analytics,Analytics,Olena,Europe,Laptop,4,113,1,1,0,120,0,9.0
+2025-04-25,U115,Machine Learning Intro,Analytics,Olena,Asia,Desktop,1,80,2,2,0,150,0,7.0
+2025-04-14,U062,SQL Fundamentals,Analytics,Dmytro,Asia,Desktop,6,131,3,3,1,150,0,9.0
+2025-01-01,U046,UX Design,Design,Kateryna,South America,Mobile,0,151,2,2,0,0,0,
+2025-02-21,U057,UX Design,Design,Kateryna,Asia,Desktop,4,79,2,2,1,0,0,3.0
+2025-03-12,U052,UI Design,Design,Kateryna,Europe,Desktop,2,77,0,0,0,100,0,8.0
+2025-04-02,U063,UX Design,Design,Kateryna,Europe,Desktop,1,115,1,1,0,120,0,5.0
+2025-01-18,U001,UI Design,Design,Kateryna,North America,Laptop,2,64,2,2,0,120,0,5.0
+2025-04-20,U034,Machine Learning Intro,Analytics,Olena,North America,Mobile,4,75,0,0,0,0,0,7.0
+2025-03-08,U051,Data Analytics,Analytics,Olena,Asia,Laptop,6,24,1,1,0,120,0,7.0
+2025-01-19,U036,UX Design,Design,Kateryna,Europe,Mobile,2,114,0,0,0,120,0,8.0
+2025-01-09,U098,UX Design,Design,Kateryna,Europe,Mobile,1,73,3,2,1,100,1,8.0
+2025-01-09,U040,SQL Fundamentals,Analytics,Dmytro,Asia,Desktop,1,75,2,2,0,0,0,4.0
+2025-03-26,U042,Machine Learning Intro,Analytics,Olena,Asia,Desktop,3,62,1,1,0,0,0,7.0
+2025-02-22,U071,SQL Fundamentals,Analytics,Dmytro,South America,Laptop,2,90,1,1,0,0,0,7.0
+2025-01-11,U040,Python Basics,Programming,Andrii,Europe,Laptop,2,89,2,2,0,0,0,6.0
+2025-03-24,U099,Machine Learning Intro,Analytics,Olena,Europe,Laptop,3,80,1,1,0,100,0,5.0
+2025-04-24,U101,Machine Learning Intro,Analytics,Olena,Asia,Desktop,2,72,2,2,0,150,0,7.0
+2025-03-22,U087,UX Design,Design,Kateryna,Asia,Mobile,1,87,2,2,1,150,1,7.0
+2025-01-07,U009,Python Basics,Programming,Andrii,South America,Mobile,4,32,2,2,0,120,0,9.0
+2025-03-28,U108,Data Analytics,Analytics,Olena,Asia,Laptop,4,82,1,1,0,100,0,5.0
+2025-02-08,U046,Machine Learning Intro,Analytics,Olena,Europe,Desktop,0,152,1,1,0,0,0,
+2025-04-13,U084,UX Design,Design,Kateryna,North America,Desktop,2,95,3,3,2,0,0,9.0
+2025-02-18,U088,Machine Learning Intro,Analytics,Olena,Europe,Mobile,1,104,1,0,0,100,0,3.0
+2025-03-12,U052,Machine Learning Intro,Analytics,Olena,Europe,Mobile,3,59,1,1,1,100,1,9.0
+2025-03-28,U049,Data Analytics,Analytics,Olena,South America,Mobile,1,98,3,3,1,0,0,7.0
+2025-04-21,U089,Data Analytics,Analytics,Olena,North America,Mobile,2,56,1,0,0,0,0,9.0
+2025-02-09,U025,UX Design,Design,Kateryna,North America,Desktop,1,67,2,2,2,0,0,6.0
+2025-03-10,U077,Data Analytics,Analytics,Olena,Europe,Mobile,4,87,2,2,1,0,0,5.0
+2025-02-28,U048,Data Analytics,Analytics,Olena,Europe,Desktop,1,47,2,1,1,100,0,4.0
+2025-01-10,U032,Python Basics,Programming,Andrii,Europe,Mobile,0,122,2,2,0,0,0,
+2025-01-27,U113,Data Analytics,Analytics,Olena,Asia,Desktop,3,82,3,2,0,120,0,7.0
+2025-01-22,U068,Machine Learning Intro,Analytics,Olena,Asia,Desktop,2,20,2,2,0,150,0,7.0
+2025-03-17,U036,Python Basics,Programming,Andrii,Europe,Mobile,0,121,1,1,0,0,0,
+2025-01-29,U004,Data Analytics,Analytics,Olena,Europe,Mobile,2,88,2,2,0,150,0,6.0
+2025-04-03,U021,UX Design,Design,Kateryna,Asia,Desktop,2,67,2,2,0,120,0,9.0
+2025-04-18,U080,Python Basics,Programming,Andrii,South America,Desktop,6,112,2,2,0,0,0,6.0
+2025-03-25,U100,Data Analytics,Analytics,Olena,Europe,Laptop,0,27,2,2,0,100,1,
+2025-01-18,U094,SQL Fundamentals,Analytics,Dmytro,Asia,Laptop,4,45,1,1,1,0,0,8.0
+2025-03-27,U092,Machine Learning Intro,Analytics,Olena,Europe,Mobile,1,105,2,2,1,100,0,8.0
+2025-04-13,U090,UI Design,Design,Kateryna,Asia,Mobile,0,85,2,2,1,100,0,
+2025-04-05,U032,Data Analytics,Analytics,Olena,North America,Mobile,4,78,2,1,0,120,0,4.0
+2025-01-14,U075,SQL Fundamentals,Analytics,Dmytro,Europe,Desktop,2,90,1,1,0,100,0,8.0
+2025-02-06,U096,Data Analytics,Analytics,Olena,Asia,Desktop,1,34,1,0,0,0,0,7.0
+2025-01-31,U058,UX Design,Design,Kateryna,North America,Laptop,4,62,2,2,1,100,0,9.0
+2025-02-11,U115,Python Basics,Programming,Andrii,Europe,Desktop,3,60,3,3,1,100,0,7.0
+2025-03-10,U038,UX Design,Design,Kateryna,Europe,Desktop,3,83,1,1,0,150,1,3.0
+2025-02-09,U076,Machine Learning Intro,Analytics,Olena,South America,Laptop,1,77,0,0,0,120,0,6.0
+2025-01-08,U043,Machine Learning Intro,Analytics,Olena,North America,Desktop,1,100,3,3,2,120,0,9.0
+2025-01-06,U108,Python Basics,Programming,Andrii,Europe,Desktop,0,96,2,2,0,100,0,
+2025-03-10,U033,Data Analytics,Analytics,Olena,Asia,Laptop,2,77,2,2,0,0,0,8.0
+2025-03-25,U023,UI Design,Design,Kateryna,Europe,Laptop,2,83,1,1,1,0,0,4.0
+2025-03-06,U055,SQL Fundamentals,Analytics,Dmytro,Europe,Desktop,3,80,1,0,0,120,0,8.0
+2025-02-22,U048,UX Design,Design,Kateryna,Asia,Desktop,1,99,1,0,0,120,1,9.0
+2025-04-15,U075,Machine Learning Intro,Analytics,Olena,Asia,Mobile,4,65,2,2,1,0,0,3.0
+2025-03-17,U071,UX Design,Design,Kateryna,Europe,Laptop,3,39,2,2,1,100,0,4.0
+2025-03-11,U028,UX Design,Design,Kateryna,North America,Desktop,1,70,0,0,0,100,0,6.0
+2025-02-12,U109,UX Design,Design,Kateryna,Europe,Desktop,3,52,1,1,0,0,0,5.0
+2025-01-29,U111,Machine Learning Intro,Analytics,Olena,Asia,Desktop,2,45,1,1,0,0,0,7.0
+2025-01-31,U071,Data Analytics,Analytics,Olena,Asia,Desktop,4,89,2,2,1,150,0,3.0
+2025-01-15,U010,SQL Fundamentals,Analytics,Dmytro,Europe,Mobile,2,107,1,0,0,120,0,5.0
+2025-02-05,U074,Data Analytics,Analytics,Olena,Europe,Desktop,2,35,2,2,0,0,0,5.0
+2025-01-10,U073,UI Design,Design,Kateryna,Asia,Desktop,1,125,2,2,0,120,1,6.0
+2025-02-15,U019,Machine Learning Intro,Analytics,Olena,North America,Laptop,1,57,0,0,0,100,1,3.0
+2025-03-01,U002,Machine Learning Intro,Analytics,Olena,North America,Desktop,4,111,0,0,0,120,0,4.0
+2025-03-28,U030,Machine Learning Intro,Analytics,Olena,Europe,Laptop,2,80,0,0,0,100,0,3.0
+2025-01-16,U012,Machine Learning Intro,Analytics,Olena,Asia,Desktop,0,100,2,2,1,0,0,
+2025-01-22,U082,Data Analytics,Analytics,Olena,Asia,Laptop,1,66,1,1,0,0,0,3.0
+2025-03-14,U065,Python Basics,Programming,Andrii,North America,Desktop,2,85,3,3,0,100,0,8.0
+2025-03-23,U045,Python Basics,Programming,Andrii,Asia,Laptop,1,92,1,1,0,0,0,5.0
+2025-03-23,U078,Machine Learning Intro,Analytics,Olena,Asia,Mobile,2,44,2,1,1,0,0,5.0
+2025-02-10,U006,Data Analytics,Analytics,Olena,Asia,Desktop,2,82,1,0,0,150,0,9.0
+2025-01-06,U032,UX Design,Design,Kateryna,Europe,Laptop,2,58,1,1,1,120,0,9.0
+2025-03-24,U009,Python Basics,Programming,Andrii,Europe,Mobile,1,103,3,3,0,0,0,6.0
+2025-02-21,U093,Machine Learning Intro,Analytics,Olena,Asia,Mobile,4,16,4,4,1,150,0,8.0
+2025-04-01,U021,UI Design,Design,Kateryna,North America,Laptop,1,29,3,2,1,0,0,7.0
+2025-02-14,U032,Machine Learning Intro,Analytics,Olena,Europe,Desktop,2,63,2,2,1,120,0,4.0
+2025-01-21,U042,UX Design,Design,Kateryna,Europe,Desktop,3,84,1,1,1,120,0,5.0
+2025-03-27,U072,Data Analytics,Analytics,Olena,Asia,Desktop,1,77,3,3,0,0,0,5.0
+2025-01-01,U109,Python Basics,Programming,Andrii,Europe,Desktop,3,111,1,1,0,0,0,7.0
+2025-01-05,U094,UI Design,Design,Kateryna,North America,Desktop,0,104,1,1,0,0,0,
+2025-02-18,U036,UI Design,Design,Kateryna,Europe,Desktop,3,72,0,0,0,100,0,6.0
+2025-04-08,U011,SQL Fundamentals,Analytics,Dmytro,Europe,Mobile,1,22,0,0,0,150,0,7.0
+2025-02-13,U032,Python Basics,Programming,Andrii,North America,Laptop,5,67,3,2,1,120,0,5.0
+2025-03-27,U022,Python Basics,Programming,Andrii,Europe,Laptop,1,56,2,1,0,0,0,6.0
+2025-03-18,U022,Python Basics,Programming,Andrii,North America,Laptop,1,105,2,2,0,100,0,6.0
+2025-01-05,U003,Data Analytics,Analytics,Olena,Europe,Desktop,3,87,3,3,0,100,0,4.0
+2025-03-31,U058,UI Design,Design,Kateryna,North America,Desktop,5,42,2,2,1,120,0,4.0
+2025-02-06,U102,UX Design,Design,Kateryna,Europe,Desktop,0,63,1,1,0,150,0,
+2025-01-03,U088,UX Design,Design,Kateryna,Asia,Laptop,4,74,3,3,0,0,0,8.0
+2025-02-27,U102,UX Design,Design,Kateryna,North America,Laptop,1,53,0,0,0,0,0,5.0
+2025-04-02,U047,Python Basics,Programming,Andrii,North America,Desktop,1,35,1,1,1,120,0,4.0
+2025-01-16,U069,Data Analytics,Analytics,Olena,Asia,Mobile,1,125,3,3,2,120,1,5.0
+2025-02-15,U026,Python Basics,Programming,Andrii,Europe,Laptop,4,77,2,2,0,0,0,6.0
+2025-03-01,U057,Machine Learning Intro,Analytics,Olena,Asia,Mobile,0,71,1,1,0,150,0,
+2025-03-21,U016,UI Design,Design,Kateryna,Europe,Mobile,1,106,4,4,0,120,1,9.0
+2025-03-23,U032,Python Basics,Programming,Andrii,South America,Laptop,1,28,1,1,1,0,0,5.0
+2025-03-28,U090,UX Design,Design,Kateryna,Asia,Laptop,3,62,1,1,1,100,0,7.0
+2025-03-02,U098,Machine Learning Intro,Analytics,Olena,North America,Desktop,2,42,0,0,0,150,0,4.0
+2025-03-15,U098,Python Basics,Programming,Andrii,Asia,Laptop,0,116,2,2,0,120,0,
+2025-01-07,U021,Machine Learning Intro,Analytics,Olena,Asia,Mobile,1,85,1,1,0,150,0,6.0
+2025-01-26,U113,SQL Fundamentals,Analytics,Dmytro,Europe,Laptop,3,106,2,2,1,150,0,4.0
+2025-01-08,U024,Machine Learning Intro,Analytics,Olena,North America,Laptop,4,89,1,1,0,150,0,4.0
+2025-04-17,U040,UI Design,Design,Kateryna,Europe,Desktop,2,69,0,0,0,0,0,3.0
+2025-01-12,U011,UI Design,Design,Kateryna,Europe,Mobile,1,47,3,2,2,120,0,7.0
+2025-01-25,U003,Data Analytics,Analytics,Olena,Europe,Mobile,1,89,1,1,1,150,0,6.0
+2025-04-18,U073,UX Design,Design,Kateryna,Europe,Mobile,2,57,3,2,1,0,0,5.0
+2025-02-26,U023,UI Design,Design,Kateryna,North America,Mobile,2,60,2,2,0,120,0,6.0
+2025-01-01,U072,Python Basics,Programming,Andrii,Asia,Laptop,1,90,2,1,1,120,0,4.0
+2025-04-25,U097,UI Design,Design,Kateryna,Asia,Laptop,0,23,0,0,0,100,0,
+2025-01-30,U078,Python Basics,Programming,Andrii,Europe,Desktop,4,80,2,1,0,150,0,5.0
+2025-04-29,U019,Machine Learning Intro,Analytics,Olena,Europe,Laptop,1,18,1,1,0,0,0,8.0
+2025-02-10,U068,Python Basics,Programming,Andrii,South America,Mobile,3,71,1,1,0,100,0,4.0
+2025-03-26,U021,UX Design,Design,Kateryna,Europe,Desktop,3,59,2,1,0,0,0,5.0
+2025-01-26,U052,UX Design,Design,Kateryna,Europe,Mobile,4,96,1,0,0,0,0,4.0
+2025-04-01,U055,Data Analytics,Analytics,Olena,Asia,Laptop,0,52,0,0,0,0,0,
+2025-01-08,U083,Machine Learning Intro,Analytics,Olena,Asia,Laptop,3,149,1,1,1,0,0,5.0
+2025-01-20,U097,SQL Fundamentals,Analytics,Dmytro,Asia,Laptop,1,57,2,1,0,150,0,9.0
+2025-01-13,U064,Python Basics,Programming,Andrii,Europe,Laptop,2,92,2,2,0,120,0,4.0
+2025-04-13,U092,SQL Fundamentals,Analytics,Dmytro,North America,Mobile,0,99,2,2,1,0,0,
+2025-03-09,U094,Data Analytics,Analytics,Olena,Asia,Desktop,0,120,1,1,0,100,0,
+2025-03-04,U029,Data Analytics,Analytics,Olena,Asia,Mobile,2,88,0,0,0,100,0,8.0
+2025-02-09,U002,Data Analytics,Analytics,Olena,Asia,Laptop,1,98,1,0,0,0,0,3.0
+2025-01-23,U024,Data Analytics,Analytics,Olena,Europe,Desktop,2,108,2,2,0,100,0,6.0
+2025-03-20,U041,Python Basics,Programming,Andrii,Asia,Desktop,3,67,0,0,0,150,0,6.0
+2025-01-19,U029,SQL Fundamentals,Analytics,Dmytro,Asia,Laptop,1,24,1,1,0,100,0,6.0
+2025-04-12,U065,Machine Learning Intro,Analytics,Olena,Europe,Mobile,2,21,0,0,0,0,0,7.0
+2025-01-30,U042,UX Design,Design,Kateryna,North America,Desktop,2,75,2,2,1,0,0,3.0
+2025-04-19,U096,UI Design,Design,Kateryna,Asia,Desktop,4,43,1,1,0,0,0,6.0
+2025-01-21,U044,Python Basics,Programming,Andrii,Asia,Desktop,1,137,1,1,0,150,0,8.0
+2025-01-24,U019,UX Design,Design,Kateryna,North America,Desktop,3,124,3,3,1,0,0,8.0
+2025-01-11,U103,Machine Learning Intro,Analytics,Olena,Europe,Laptop,1,47,2,2,0,0,0,6.0
+2025-04-12,U075,Data Analytics,Analytics,Olena,Asia,Laptop,4,10,0,0,0,100,0,5.0
+2025-02-17,U073,Machine Learning Intro,Analytics,Olena,Europe,Laptop,1,41,1,1,1,0,0,9.0
+2025-03-21,U114,UI Design,Design,Kateryna,Asia,Laptop,1,45,0,0,0,0,0,8.0
+2025-02-26,U094,Python Basics,Programming,Andrii,South America,Laptop,2,96,2,2,0,120,0,3.0
+2025-01-01,U036,Python Basics,Programming,Andrii,Asia,Desktop,1,25,0,0,0,0,0,5.0
+2025-01-14,U060,UX Design,Design,Kateryna,South America,Desktop,3,118,2,2,0,0,0,7.0
+2025-02-25,U111,Machine Learning Intro,Analytics,Olena,North America,Laptop,1,109,2,2,0,0,0,5.0
+2025-02-22,U019,Data Analytics,Analytics,Olena,North America,Desktop,4,87,4,4,0,0,0,9.0
+2025-01-22,U030,Machine Learning Intro,Analytics,Olena,Europe,Mobile,1,54,1,1,0,120,0,9.0
+2025-04-23,U093,SQL Fundamentals,Analytics,Dmytro,North America,Laptop,3,80,0,0,0,100,0,5.0
+2025-01-13,U083,Data Analytics,Analytics,Olena,Europe,Mobile,1,77,1,0,0,120,0,9.0
+2025-01-23,U085,UX Design,Design,Kateryna,North America,Desktop,1,86,2,2,0,120,0,3.0
+2025-04-11,U118,Machine Learning Intro,Analytics,Olena,North America,Laptop,0,113,2,2,1,0,0,
+2025-04-11,U013,Machine Learning Intro,Analytics,Olena,North America,Desktop,3,104,3,3,0,120,0,6.0
+2025-03-11,U108,Machine Learning Intro,Analytics,Olena,Europe,Laptop,2,58,1,1,0,0,0,7.0
+2025-03-15,U046,UX Design,Design,Kateryna,Europe,Desktop,0,68,1,1,0,100,0,
+2025-01-24,U029,Python Basics,Programming,Andrii,North America,Desktop,3,61,1,0,0,100,1,9.0
+2025-04-04,U105,SQL Fundamentals,Analytics,Dmytro,Europe,Laptop,1,49,2,2,1,100,0,7.0
+2025-01-07,U100,Python Basics,Programming,Andrii,Europe,Mobile,3,63,1,1,0,100,0,9.0
+2025-02-13,U090,Machine Learning Intro,Analytics,Olena,South America,Mobile,4,37,1,1,0,120,0,7.0
+2025-03-24,U011,UX Design,Design,Kateryna,North America,Laptop,2,94,1,1,0,150,0,4.0
+2025-01-26,U113,SQL Fundamentals,Analytics,Dmytro,Europe,Laptop,1,76,2,2,0,120,1,8.0
+2025-03-03,U086,UI Design,Design,Kateryna,Asia,Laptop,1,68,0,0,0,0,0,3.0
+2025-03-22,U112,Python Basics,Programming,Andrii,North America,Mobile,2,27,2,2,1,0,0,8.0
+2025-03-23,U026,UI Design,Design,Kateryna,Europe,Mobile,6,129,1,1,0,120,0,4.0
+2025-03-27,U093,UI Design,Design,Kateryna,Asia,Mobile,3,76,0,0,0,0,0,5.0
+2025-04-03,U067,Machine Learning Intro,Analytics,Olena,Asia,Desktop,1,34,0,0,0,150,0,5.0
+2025-03-31,U078,Data Analytics,Analytics,Olena,North America,Desktop,2,53,1,0,0,0,0,4.0
+2025-02-28,U075,Data Analytics,Analytics,Olena,Europe,Desktop,2,78,2,2,1,100,0,5.0
+2025-04-19,U060,SQL Fundamentals,Analytics,Dmytro,North America,Laptop,3,37,2,2,1,0,0,3.0
+2025-04-01,U068,SQL Fundamentals,Analytics,Dmytro,South America,Laptop,3,106,2,2,0,150,0,6.0
+2025-01-23,U109,UX Design,Design,Kateryna,Europe,Laptop,2,116,1,1,0,0,0,6.0
+2025-01-03,U051,UI Design,Design,Kateryna,North America,Mobile,2,67,3,3,0,120,0,8.0
+2025-02-26,U112,Python Basics,Programming,Andrii,South America,Laptop,2,64,0,0,0,120,1,4.0
+2025-01-09,U081,Python Basics,Programming,Andrii,Asia,Laptop,3,118,2,2,0,150,0,4.0
+2025-04-14,U015,Python Basics,Programming,Andrii,North America,Desktop,0,62,2,2,0,0,0,
+2025-03-11,U006,Machine Learning Intro,Analytics,Olena,South America,Mobile,4,42,1,1,0,100,1,6.0
+2025-02-04,U104,UI Design,Design,Kateryna,North America,Mobile,1,101,2,2,2,0,0,3.0
+2025-03-10,U027,UI Design,Design,Kateryna,Europe,Mobile,4,106,3,3,1,100,1,8.0
+2025-02-25,U119,Python Basics,Programming,Andrii,North America,Mobile,2,38,1,1,1,100,0,7.0
+2025-04-28,U120,Python Basics,Programming,Andrii,Europe,Desktop,2,59,0,0,0,120,0,9.0
+2025-01-14,U087,Python Basics,Programming,Andrii,North America,Laptop,4,87,1,1,0,150,0,4.0
+2025-03-31,U084,Data Analytics,Analytics,Olena,Europe,Laptop,0,86,4,4,1,100,0,
+2025-01-26,U043,Python Basics,Programming,Andrii,Europe,Mobile,1,125,3,3,0,0,0,5.0
+2025-01-06,U079,Python Basics,Programming,Andrii,Asia,Laptop,2,105,2,1,0,0,0,9.0
+2025-02-28,U022,Python Basics,Programming,Andrii,North America,Desktop,3,76,1,1,0,150,0,7.0
+2025-02-15,U106,UI Design,Design,Kateryna,South America,Desktop,0,49,1,1,1,100,0,
+2025-04-03,U073,Python Basics,Programming,Andrii,Europe,Laptop,2,59,2,2,1,120,1,9.0
+2025-04-07,U110,UX Design,Design,Kateryna,Europe,Mobile,2,122,3,3,0,150,0,6.0
+2025-02-28,U063,UX Design,Design,Kateryna,North America,Desktop,1,63,3,3,1,0,0,6.0
+2025-01-28,U097,UI Design,Design,Kateryna,North America,Desktop,5,40,2,2,0,100,0,4.0
+2025-02-26,U077,Machine Learning Intro,Analytics,Olena,Asia,Laptop,1,54,1,1,0,100,0,7.0
+2025-04-22,U029,UX Design,Design,Kateryna,North America,Mobile,5,71,2,2,0,120,1,3.0
+2025-04-19,U055,UI Design,Design,Kateryna,South America,Mobile,1,96,2,1,0,100,0,5.0
+2025-02-08,U022,Data Analytics,Analytics,Olena,North America,Laptop,5,45,2,2,0,0,0,3.0
+2025-04-29,U104,UX Design,Design,Kateryna,North America,Laptop,1,53,0,0,0,0,0,3.0
+2025-04-16,U028,Python Basics,Programming,Andrii,Europe,Desktop,1,105,4,4,1,100,0,9.0
+2025-04-16,U065,UX Design,Design,Kateryna,Asia,Laptop,3,47,2,2,0,120,0,7.0
+2025-01-26,U049,Python Basics,Programming,Andrii,Europe,Laptop,1,153,0,0,0,120,0,3.0
+2025-02-23,U028,Data Analytics,Analytics,Olena,Asia,Mobile,3,67,3,3,2,150,0,7.0
+2025-02-15,U030,Data Analytics,Analytics,Olena,North America,Mobile,1,66,2,2,2,0,0,3.0
+2025-02-18,U045,SQL Fundamentals,Analytics,Dmytro,Europe,Mobile,3,55,0,0,0,0,0,8.0
+2025-01-04,U060,Machine Learning Intro,Analytics,Olena,Europe,Desktop,4,52,2,2,0,100,0,4.0
+2025-04-11,U112,UX Design,Design,Kateryna,Europe,Laptop,1,95,1,1,0,0,0,8.0
+2025-01-29,U058,Data Analytics,Analytics,Olena,Europe,Laptop,4,52,0,0,0,100,0,3.0
+2025-02-09,U109,Python Basics,Programming,Andrii,North America,Mobile,4,20,0,0,0,100,0,3.0
+2025-04-21,U067,UI Design,Design,Kateryna,North America,Desktop,3,106,2,2,1,120,0,9.0
+2025-03-11,U088,Machine Learning Intro,Analytics,Olena,North America,Laptop,1,24,1,1,1,120,0,8.0
+2025-02-19,U048,UI Design,Design,Kateryna,Europe,Desktop,3,82,1,0,0,120,0,5.0
+2025-01-20,U012,Python Basics,Programming,Andrii,South America,Mobile,1,148,0,0,0,0,0,5.0
+2025-04-26,U075,Python Basics,Programming,Andrii,North America,Laptop,0,67,1,1,0,150,0,
+2025-04-10,U032,Python Basics,Programming,Andrii,Europe,Mobile,2,80,1,1,0,0,0,3.0
+2025-01-20,U048,Python Basics,Programming,Andrii,North America,Desktop,3,65,0,0,0,100,0,8.0
+2025-03-16,U032,Python Basics,Programming,Andrii,North America,Desktop,1,81,2,2,1,150,1,8.0
+2025-03-24,U065,Machine Learning Intro,Analytics,Olena,Europe,Desktop,0,35,4,3,0,120,1,
+2025-02-28,U043,Machine Learning Intro,Analytics,Olena,Asia,Laptop,7,62,2,2,1,0,0,4.0
+2025-01-30,U081,Machine Learning Intro,Analytics,Olena,North America,Mobile,2,70,2,2,0,120,0,6.0
+2025-02-06,U106,Data Analytics,Analytics,Olena,Asia,Mobile,2,59,1,0,0,120,0,8.0
+2025-01-29,U019,UI Design,Design,Kateryna,Europe,Desktop,1,23,1,1,0,0,0,5.0
+2025-02-06,U040,Machine Learning Intro,Analytics,Olena,Europe,Mobile,1,60,1,1,0,120,1,7.0
+2025-01-26,U086,Machine Learning Intro,Analytics,Olena,Europe,Desktop,1,74,1,1,0,120,0,8.0
+2025-01-10,U040,UI Design,Design,Kateryna,Europe,Desktop,2,73,2,2,0,100,0,3.0
+2025-02-17,U018,Python Basics,Programming,Andrii,South America,Laptop,1,80,0,0,0,150,1,7.0
+2025-03-23,U077,Data Analytics,Analytics,Olena,Asia,Laptop,3,59,0,0,0,0,0,7.0
+2025-04-19,U081,Data Analytics,Analytics,Olena,Europe,Laptop,3,12,2,2,0,100,0,8.0
+2025-03-08,U028,Python Basics,Programming,Andrii,Europe,Mobile,4,111,1,1,0,100,0,9.0
+2025-03-10,U062,Machine Learning Intro,Analytics,Olena,Asia,Desktop,2,83,2,2,1,0,0,3.0
+2025-01-01,U015,UX Design,Design,Kateryna,Europe,Laptop,1,46,1,1,1,100,0,3.0
+2025-03-02,U016,SQL Fundamentals,Analytics,Dmytro,North America,Laptop,4,108,2,2,1,0,0,9.0
+2025-03-14,U052,SQL Fundamentals,Analytics,Dmytro,North America,Desktop,5,51,2,2,0,120,0,5.0
+2025-03-03,U012,Data Analytics,Analytics,Olena,Asia,Desktop,0,132,2,2,0,150,0,
+2025-02-25,U006,UI Design,Design,Kateryna,Europe,Desktop,3,69,1,0,0,120,0,6.0
+2025-01-17,U006,Python Basics,Programming,Andrii,Europe,Desktop,3,67,2,2,1,100,0,6.0
+2025-04-20,U083,SQL Fundamentals,Analytics,Dmytro,Europe,Desktop,2,75,2,1,1,100,0,5.0
+2025-01-09,U111,Machine Learning Intro,Analytics,Olena,Europe,Desktop,2,82,2,2,0,0,0,5.0
+2025-02-27,U027,Data Analytics,Analytics,Olena,Europe,Desktop,2,66,2,2,0,0,0,8.0
+2025-01-03,U021,Data Analytics,Analytics,Olena,North America,Mobile,1,85,1,0,0,0,0,9.0
+2025-02-15,U025,UX Design,Design,Kateryna,Asia,Desktop,1,47,2,1,0,120,0,4.0
+2025-03-30,U052,Data Analytics,Analytics,Olena,Europe,Desktop,1,68,1,1,0,0,0,5.0
+2025-04-22,U002,Data Analytics,Analytics,Olena,Asia,Laptop,3,86,3,3,1,120,1,4.0
+2025-03-26,U056,SQL Fundamentals,Analytics,Dmytro,Europe,Desktop,2,32,2,2,0,120,0,8.0
+2025-04-09,U109,UI Design,Design,Kateryna,North America,Desktop,1,29,0,0,0,0,0,9.0
+2025-03-13,U061,UI Design,Design,Kateryna,North America,Mobile,1,70,1,1,1,0,0,8.0
+2025-03-11,U059,SQL Fundamentals,Analytics,Dmytro,South America,Laptop,1,46,1,1,1,120,1,5.0
+2025-01-20,U100,Python Basics,Programming,Andrii,Europe,Mobile,3,66,1,1,0,120,1,9.0
+2025-03-09,U040,Python Basics,Programming,Andrii,Europe,Mobile,1,130,2,2,0,150,0,9.0
+2025-02-14,U066,Machine Learning Intro,Analytics,Olena,South America,Laptop,3,53,3,3,1,0,0,7.0
+2025-04-04,U006,SQL Fundamentals,Analytics,Dmytro,Europe,Desktop,3,23,2,1,0,150,0,4.0
+2025-01-11,U043,Data Analytics,Analytics,Olena,Asia,Desktop,1,83,2,2,0,100,0,7.0
+2025-04-16,U003,Data Analytics,Analytics,Olena,Asia,Laptop,1,36,2,2,0,100,0,7.0
+2025-04-30,U112,Data Analytics,Analytics,Olena,North America,Laptop,3,61,1,1,0,120,0,9.0
+2025-04-29,U081,UI Design,Design,Kateryna,North America,Mobile,1,77,1,1,0,100,1,6.0
+2025-04-17,U047,SQL Fundamentals,Analytics,Dmytro,Asia,Desktop,3,89,1,1,0,0,0,6.0
+2025-01-13,U043,Data Analytics,Analytics,Olena,Europe,Desktop,1,79,1,1,0,0,0,9.0
+2025-04-19,U052,Machine Learning Intro,Analytics,Olena,North America,Laptop,3,54,1,0,0,100,0,9.0
+2025-02-05,U002,UI Design,Design,Kateryna,Europe,Desktop,3,36,0,0,0,0,0,5.0
+2025-01-19,U038,UI Design,Design,Kateryna,North America,Mobile,1,89,4,4,0,150,1,3.0
+2025-04-16,U095,Machine Learning Intro,Analytics,Olena,South America,Mobile,3,143,1,1,0,0,0,3.0
+2025-04-06,U016,UI Design,Design,Kateryna,Europe,Laptop,1,81,1,1,0,100,0,3.0
+2025-02-16,U092,UX Design,Design,Kateryna,North America,Desktop,1,102,2,2,1,100,0,4.0
+2025-03-01,U054,UI Design,Design,Kateryna,Europe,Desktop,0,95,1,1,0,120,0,
+2025-04-28,U080,UX Design,Design,Kateryna,Asia,Mobile,0,49,3,3,2,0,0,
+2025-03-17,U090,Data Analytics,Analytics,Olena,Asia,Mobile,5,110,2,2,1,100,0,9.0
+2025-01-24,U021,SQL Fundamentals,Analytics,Dmytro,Asia,Mobile,0,86,2,2,1,150,0,
+2025-03-21,U061,Machine Learning Intro,Analytics,Olena,Asia,Desktop,3,67,2,1,0,0,0,9.0
+2025-04-05,U078,UI Design,Design,Kateryna,Asia,Mobile,1,81,1,0,0,100,0,7.0
+2025-04-19,U027,Machine Learning Intro,Analytics,Olena,Asia,Desktop,2,92,0,0,0,0,0,7.0
+2025-03-25,U035,UX Design,Design,Kateryna,Asia,Desktop,2,33,1,1,0,0,0,5.0
+2025-02-08,U111,UI Design,Design,Kateryna,Europe,Laptop,4,50,0,0,0,120,0,5.0
+2025-02-02,U003,Machine Learning Intro,Analytics,Olena,Europe,Laptop,5,39,2,2,0,100,0,8.0
+2025-02-12,U083,Machine Learning Intro,Analytics,Olena,Asia,Laptop,1,102,1,1,1,150,0,9.0
+2025-03-19,U011,SQL Fundamentals,Analytics,Dmytro,Europe,Mobile,2,125,3,3,2,100,0,9.0
+2025-04-30,U007,Python Basics,Programming,Andrii,South America,Mobile,4,84,2,1,1,0,0,6.0
+2025-04-28,U004,Python Basics,Programming,Andrii,South America,Laptop,1,118,2,2,1,0,0,3.0
+2025-02-23,U029,Python Basics,Programming,Andrii,Europe,Desktop,0,45,1,1,1,150,0,
+2025-03-30,U051,UI Design,Design,Kateryna,Europe,Laptop,2,87,2,2,0,120,0,8.0
+2025-04-01,U052,Data Analytics,Analytics,Olena,Europe,Desktop,1,139,3,2,1,0,0,5.0
+2025-02-05,U050,Machine Learning Intro,Analytics,Olena,Europe,Laptop,2,72,1,1,0,0,0,8.0
+2025-03-31,U048,Data Analytics,Analytics,Olena,North America,Desktop,4,91,1,1,0,100,0,7.0
+2025-01-30,U042,Data Analytics,Analytics,Olena,Europe,Mobile,3,85,0,0,0,120,1,6.0
+2025-02-23,U018,Python Basics,Programming,Andrii,Europe,Laptop,3,33,1,1,0,0,0,4.0
+2025-02-13,U006,SQL Fundamentals,Analytics,Dmytro,North America,Laptop,3,92,0,0,0,0,0,7.0
+2025-03-28,U069,SQL Fundamentals,Analytics,Dmytro,Europe,Mobile,2,49,2,2,0,150,0,5.0
+2025-01-08,U008,SQL Fundamentals,Analytics,Dmytro,Europe,Laptop,0,78,1,1,1,100,0,
+2025-03-12,U015,UI Design,Design,Kateryna,North America,Mobile,2,40,4,4,2,150,0,8.0
+2025-04-22,U078,Data Analytics,Analytics,Olena,Europe,Desktop,2,104,0,0,0,0,0,5.0
+2025-02-01,U111,Data Analytics,Analytics,Olena,Europe,Desktop,1,120,2,2,0,0,0,3.0
+2025-01-20,U118,SQL Fundamentals,Analytics,Dmytro,North America,Laptop,3,48,0,0,0,150,0,8.0
+2025-01-14,U118,UX Design,Design,Kateryna,Europe,Desktop,2,57,3,3,0,100,0,5.0
+2025-02-21,U049,UX Design,Design,Kateryna,Asia,Desktop,2,79,2,2,1,100,0,6.0
+2025-02-24,U119,UI Design,Design,Kateryna,North America,Mobile,2,69,4,4,1,100,0,3.0
+2025-01-21,U057,Python Basics,Programming,Andrii,Asia,Desktop,1,111,1,1,0,120,0,9.0
+2025-01-21,U090,UX Design,Design,Kateryna,Asia,Desktop,1,85,4,4,0,100,0,8.0
+2025-01-06,U045,Python Basics,Programming,Andrii,Asia,Mobile,1,81,1,1,0,100,0,6.0
+2025-01-25,U045,Data Analytics,Analytics,Olena,North America,Laptop,5,36,2,2,0,0,0,4.0
+2025-03-30,U045,UI Design,Design,Kateryna,Asia,Desktop,2,97,2,2,0,100,0,6.0
+2025-03-04,U040,Data Analytics,Analytics,Olena,Europe,Desktop,1,128,2,2,1,150,0,6.0
+2025-02-11,U109,SQL Fundamentals,Analytics,Dmytro,Europe,Desktop,2,63,0,0,0,150,1,9.0
+2025-01-02,U118,Machine Learning Intro,Analytics,Olena,Europe,Mobile,4,45,1,1,0,100,0,8.0
+2025-03-08,U058,Python Basics,Programming,Andrii,Europe,Laptop,2,50,1,1,1,100,0,9.0
+2025-02-04,U055,UI Design,Design,Kateryna,Europe,Mobile,1,74,1,1,0,0,0,6.0
+2025-03-24,U042,Data Analytics,Analytics,Olena,Europe,Mobile,2,84,2,2,0,100,0,4.0
+2025-04-25,U098,Machine Learning Intro,Analytics,Olena,North America,Mobile,1,110,0,0,0,120,0,8.0
+2025-02-28,U071,Data Analytics,Analytics,Olena,South America,Laptop,0,112,3,3,0,150,0,
+2025-03-21,U102,Machine Learning Intro,Analytics,Olena,Europe,Mobile,3,68,0,0,0,150,0,9.0
+2025-03-03,U099,Machine Learning Intro,Analytics,Olena,Asia,Laptop,1,51,1,1,0,0,0,9.0
+2025-03-11,U027,SQL Fundamentals,Analytics,Dmytro,Asia,Desktop,2,59,3,3,0,100,0,8.0
+2025-03-20,U108,UI Design,Design,Kateryna,Europe,Laptop,3,69,1,1,0,100,0,7.0
+2025-01-22,U035,UX Design,Design,Kateryna,North America,Laptop,2,77,3,3,1,150,0,6.0
+2025-03-05,U016,Python Basics,Programming,Andrii,Europe,Desktop,1,89,2,2,0,0,0,4.0
+2025-03-12,U065,Data Analytics,Analytics,Olena,North America,Desktop,1,100,3,3,1,150,0,4.0
+2025-03-28,U114,SQL Fundamentals,Analytics,Dmytro,Europe,Laptop,0,124,1,1,1,150,0,
+2025-02-23,U115,UI Design,Design,Kateryna,North America,Laptop,4,81,2,1,0,120,0,5.0
+2025-02-16,U076,SQL Fundamentals,Analytics,Dmytro,Europe,Mobile,2,43,1,1,0,0,0,9.0
+2025-02-26,U055,Machine Learning Intro,Analytics,Olena,Europe,Desktop,3,70,1,1,0,0,0,8.0
+2025-02-25,U022,Python Basics,Programming,Andrii,Asia,Desktop,0,80,3,3,2,0,0,
+2025-02-22,U016,Machine Learning Intro,Analytics,Olena,Europe,Laptop,1,75,3,3,1,150,0,6.0
+2025-03-20,U034,UI Design,Design,Kateryna,South America,Mobile,3,112,1,1,0,120,0,4.0
+2025-03-11,U083,SQL Fundamentals,Analytics,Dmytro,Europe,Desktop,2,98,2,2,1,100,0,9.0
+2025-02-07,U119,UI Design,Design,Kateryna,Asia,Mobile,3,96,2,2,1,120,0,6.0
+2025-04-06,U006,SQL Fundamentals,Analytics,Dmytro,Europe,Laptop,2,56,1,1,0,120,0,9.0
+2025-03-03,U027,Machine Learning Intro,Analytics,Olena,Europe,Laptop,2,65,2,2,0,120,0,4.0
+2025-01-25,U101,Python Basics,Programming,Andrii,Europe,Desktop,1,28,2,1,0,0,0,3.0
+2025-03-09,U081,Data Analytics,Analytics,Olena,Europe,Mobile,2,79,2,2,0,0,0,7.0
+2025-02-14,U082,Data Analytics,Analytics,Olena,Europe,Mobile,4,29,1,1,1,100,0,6.0
+2025-02-18,U082,UX Design,Design,Kateryna,Europe,Mobile,2,108,1,1,1,150,0,8.0
+2025-01-07,U046,UI Design,Design,Kateryna,Asia,Desktop,2,70,1,1,0,120,0,9.0
+2025-04-15,U078,Python Basics,Programming,Andrii,Europe,Laptop,1,49,1,1,0,120,0,3.0
+2025-01-12,U090,Machine Learning Intro,Analytics,Olena,Asia,Laptop,3,33,0,0,0,0,0,4.0
+2025-03-25,U020,Python Basics,Programming,Andrii,South America,Laptop,3,75,2,2,0,0,0,6.0
+2025-04-28,U094,UX Design,Design,Kateryna,Europe,Laptop,3,91,2,2,0,0,0,9.0
+2025-02-22,U037,Data Analytics,Analytics,Olena,Asia,Desktop,1,93,0,0,0,120,0,8.0
+2025-04-29,U014,SQL Fundamentals,Analytics,Dmytro,South America,Laptop,1,56,2,2,0,100,0,7.0
+2025-04-08,U106,UX Design,Design,Kateryna,Asia,Mobile,4,108,3,3,1,100,0,7.0
+2025-04-10,U010,UX Design,Design,Kateryna,North America,Desktop,0,132,1,1,0,100,0,
+2025-02-08,U020,Data Analytics,Analytics,Olena,Europe,Laptop,0,12,1,0,0,0,0,
+2025-01-17,U051,SQL Fundamentals,Analytics,Dmytro,Europe,Desktop,2,64,0,0,0,120,0,6.0
+2025-04-06,U076,SQL Fundamentals,Analytics,Dmytro,Europe,Laptop,1,45,2,2,0,120,0,9.0
+2025-04-14,U033,UX Design,Design,Kateryna,Europe,Desktop,3,36,3,3,2,0,0,9.0
+2025-02-21,U049,Python Basics,Programming,Andrii,North America,Laptop,2,88,2,2,0,0,0,3.0
+2025-01-12,U024,SQL Fundamentals,Analytics,Dmytro,Europe,Laptop,3,102,1,1,0,0,0,5.0
+2025-04-18,U028,SQL Fundamentals,Analytics,Dmytro,Europe,Laptop,0,88,2,2,0,100,0,
+2025-02-01,U015,UX Design,Design,Kateryna,Asia,Desktop,2,72,3,3,0,0,0,9.0
+2025-04-22,U100,UX Design,Design,Kateryna,Europe,Desktop,4,110,1,1,1,0,0,9.0
+2025-03-09,U104,UX Design,Design,Kateryna,Europe,Desktop,1,75,1,1,0,120,0,4.0
+2025-04-20,U098,UX Design,Design,Kateryna,Europe,Laptop,1,133,0,0,0,120,0,5.0
+2025-03-15,U043,Data Analytics,Analytics,Olena,Europe,Desktop,1,44,0,0,0,120,0,7.0
+2025-01-18,U043,Python Basics,Programming,Andrii,Asia,Laptop,2,63,1,1,1,0,0,4.0
+2025-04-16,U001,SQL Fundamentals,Analytics,Dmytro,Europe,Mobile,3,108,1,1,0,100,0,3.0
+2025-03-29,U104,UI Design,Design,Kateryna,Europe,Desktop,4,115,2,1,0,100,0,6.0
+2025-03-08,U086,Data Analytics,Analytics,Olena,Europe,Mobile,1,10,3,2,0,120,0,9.0
+2025-01-23,U028,UX Design,Design,Kateryna,Europe,Laptop,3,129,2,1,0,0,0,7.0
+2025-03-09,U034,SQL Fundamentals,Analytics,Dmytro,Europe,Mobile,1,72,2,2,2,0,0,3.0
+2025-04-02,U113,UI Design,Design,Kateryna,Europe,Desktop,0,60,2,2,1,100,1,
+2025-04-10,U050,Data Analytics,Analytics,Olena,Europe,Laptop,3,101,2,2,0,150,1,8.0
+2025-03-28,U116,Machine Learning Intro,Analytics,Olena,Asia,Mobile,1,84,1,0,0,120,0,4.0
+2025-01-21,U099,Data Analytics,Analytics,Olena,Europe,Laptop,1,72,3,3,0,0,0,3.0
+2025-03-28,U073,Data Analytics,Analytics,Olena,Asia,Mobile,5,132,2,2,0,150,0,9.0
+2025-03-22,U039,Machine Learning Intro,Analytics,Olena,Europe,Desktop,0,72,1,1,0,0,0,
+2025-03-24,U012,SQL Fundamentals,Analytics,Dmytro,Europe,Mobile,1,49,0,0,0,100,0,8.0
+2025-01-27,U083,UX Design,Design,Kateryna,North America,Desktop,1,79,4,4,3,100,0,9.0
+2025-02-18,U093,SQL Fundamentals,Analytics,Dmytro,North America,Laptop,2,10,1,0,0,0,0,9.0
+2025-02-20,U035,SQL Fundamentals,Analytics,Dmytro,Europe,Desktop,3,133,2,2,1,0,0,6.0
+2025-03-20,U088,Data Analytics,Analytics,Olena,Europe,Desktop,2,35,0,0,0,150,0,8.0
+2025-02-10,U095,Python Basics,Programming,Andrii,Asia,Desktop,1,120,2,2,1,0,0,4.0
+2025-04-11,U114,Python Basics,Programming,Andrii,South America,Laptop,0,74,1,1,0,150,1,
+2025-03-29,U017,Machine Learning Intro,Analytics,Olena,Europe,Laptop,2,83,1,0,0,120,0,8.0
+2025-02-04,U095,Machine Learning Intro,Analytics,Olena,Europe,Desktop,1,42,2,2,1,150,0,4.0
+2025-02-21,U092,Python Basics,Programming,Andrii,North America,Laptop,1,109,4,4,1,100,0,5.0
+2025-01-03,U120,UX Design,Design,Kateryna,Asia,Laptop,1,61,3,3,1,0,0,8.0
+2025-02-10,U063,Machine Learning Intro,Analytics,Olena,Europe,Desktop,1,56,2,2,1,120,0,6.0
+2025-04-23,U093,UX Design,Design,Kateryna,North America,Desktop,3,74,3,3,0,100,0,9.0
+2025-04-07,U016,UI Design,Design,Kateryna,Asia,Laptop,2,71,2,2,1,120,0,7.0
+2025-01-27,U026,SQL Fundamentals,Analytics,Dmytro,North America,Desktop,4,96,2,1,0,100,0,7.0
+2025-04-26,U011,Data Analytics,Analytics,Olena,South America,Desktop,1,83,1,0,0,100,0,6.0
+2025-04-13,U001,Data Analytics,Analytics,Olena,North America,Laptop,1,79,1,0,0,150,0,8.0
+2025-03-02,U031,SQL Fundamentals,Analytics,Dmytro,Europe,Desktop,6,43,3,3,0,120,0,7.0
+2025-01-03,U052,UX Design,Design,Kateryna,Europe,Laptop,0,104,2,2,0,120,0,
+2025-01-08,U097,UX Design,Design,Kateryna,Asia,Desktop,2,78,3,3,1,100,0,8.0
+2025-01-26,U010,UX Design,Design,Kateryna,North America,Mobile,1,71,2,2,0,0,0,9.0
+2025-01-14,U117,Data Analytics,Analytics,Olena,Asia,Desktop,3,90,2,2,1,120,0,4.0
+2025-02-15,U066,Data Analytics,Analytics,Olena,North America,Laptop,0,10,2,2,1,0,0,
+2025-02-22,U066,SQL Fundamentals,Analytics,Dmytro,North America,Mobile,0,94,2,2,1,0,0,
+2025-01-01,U117,Machine Learning Intro,Analytics,Olena,South America,Desktop,2,60,2,2,0,150,0,6.0
+2025-03-21,U104,Python Basics,Programming,Andrii,Asia,Desktop,1,119,2,2,0,100,0,4.0
+2025-04-08,U103,Data Analytics,Analytics,Olena,Europe,Laptop,2,95,2,2,2,100,0,6.0
+2025-03-18,U001,Machine Learning Intro,Analytics,Olena,Europe,Desktop,0,115,1,1,0,120,0,
+2025-02-22,U100,Machine Learning Intro,Analytics,Olena,Europe,Desktop,1,36,1,1,0,0,0,7.0
+2025-02-23,U090,UX Design,Design,Kateryna,Europe,Laptop,1,43,1,1,0,120,0,4.0
+2025-04-21,U051,Machine Learning Intro,Analytics,Olena,Europe,Desktop,4,79,1,1,0,150,0,4.0
+2025-01-09,U049,Data Analytics,Analytics,Olena,Asia,Mobile,1,61,0,0,0,120,0,6.0
+2025-03-23,U114,Data Analytics,Analytics,Olena,Europe,Mobile,4,99,2,2,0,120,1,9.0
+2025-03-19,U097,Machine Learning Intro,Analytics,Olena,Europe,Desktop,4,79,3,3,1,0,0,7.0
+2025-01-30,U009,SQL Fundamentals,Analytics,Dmytro,Europe,Laptop,3,87,1,1,1,0,0,7.0
+2025-04-20,U069,SQL Fundamentals,Analytics,Dmytro,Europe,Laptop,3,81,0,0,0,0,0,3.0
+2025-01-24,U053,UI Design,Design,Kateryna,North America,Laptop,4,53,1,1,0,100,0,3.0
+2025-04-25,U020,Data Analytics,Analytics,Olena,Asia,Desktop,0,84,2,2,0,100,0,
+2025-01-29,U039,Machine Learning Intro,Analytics,Olena,North America,Laptop,3,54,1,1,1,100,0,7.0
+2025-01-28,U033,Python Basics,Programming,Andrii,Europe,Laptop,1,14,0,0,0,150,0,8.0
+2025-04-16,U088,SQL Fundamentals,Analytics,Dmytro,Asia,Laptop,1,83,1,1,1,100,0,8.0
+2025-02-20,U023,SQL Fundamentals,Analytics,Dmytro,South America,Laptop,1,73,1,0,0,150,0,5.0
+2025-04-12,U003,SQL Fundamentals,Analytics,Dmytro,South America,Laptop,2,37,2,2,1,120,0,4.0
+2025-01-12,U077,Data Analytics,Analytics,Olena,Europe,Desktop,4,51,1,1,0,0,0,4.0
+2025-02-18,U064,Python Basics,Programming,Andrii,Europe,Desktop,2,88,1,1,0,120,0,3.0
+2025-02-07,U087,UX Design,Design,Kateryna,North America,Laptop,4,56,2,1,1,0,0,5.0
+2025-03-10,U099,Python Basics,Programming,Andrii,Europe,Laptop,2,96,2,2,1,0,0,7.0
+2025-03-26,U093,Machine Learning Intro,Analytics,Olena,Asia,Desktop,3,87,1,1,1,120,0,5.0
+2025-02-04,U076,UI Design,Design,Kateryna,Europe,Laptop,4,123,1,1,0,100,1,6.0
+2025-03-18,U109,SQL Fundamentals,Analytics,Dmytro,North America,Desktop,0,92,1,1,0,0,0,
+2025-03-18,U060,Python Basics,Programming,Andrii,South America,Laptop,0,47,0,0,0,120,0,
+2025-01-04,U090,UX Design,Design,Kateryna,Europe,Laptop,1,62,2,2,1,150,0,3.0
+2025-02-27,U014,UX Design,Design,Kateryna,Europe,Mobile,2,83,2,2,0,100,0,5.0
+2025-03-11,U099,UX Design,Design,Kateryna,Asia,Laptop,2,57,2,2,0,120,0,8.0
+2025-01-12,U035,Data Analytics,Analytics,Olena,Asia,Desktop,1,21,1,1,0,120,0,6.0
+2025-03-11,U103,Data Analytics,Analytics,Olena,North America,Mobile,5,66,3,3,0,0,0,8.0
+2025-04-14,U036,SQL Fundamentals,Analytics,Dmytro,Europe,Mobile,4,105,3,2,0,120,1,7.0
+2025-04-02,U099,Python Basics,Programming,Andrii,South America,Mobile,2,60,1,1,1,100,1,4.0
+2025-03-25,U015,Machine Learning Intro,Analytics,Olena,Europe,Mobile,3,58,2,2,0,120,0,9.0
+2025-04-18,U076,Python Basics,Programming,Andrii,Europe,Desktop,1,101,2,2,1,0,0,6.0
+2025-04-06,U050,UX Design,Design,Kateryna,North America,Desktop,1,132,2,2,0,0,0,3.0
+2025-02-12,U095,SQL Fundamentals,Analytics,Dmytro,North America,Desktop,3,61,6,6,1,0,0,8.0
+2025-03-11,U115,UI Design,Design,Kateryna,Europe,Desktop,0,76,2,2,1,150,0,
+2025-03-19,U082,Machine Learning Intro,Analytics,Olena,Europe,Laptop,0,24,0,0,0,120,0,
+2025-04-13,U063,SQL Fundamentals,Analytics,Dmytro,Europe,Mobile,1,50,1,1,0,150,0,3.0
+2025-01-07,U102,Machine Learning Intro,Analytics,Olena,Europe,Laptop,2,44,0,0,0,120,0,4.0
+2025-04-16,U019,SQL Fundamentals,Analytics,Dmytro,Asia,Laptop,1,103,2,2,0,0,0,6.0
+2025-04-25,U019,Machine Learning Intro,Analytics,Olena,Asia,Mobile,1,69,2,1,1,100,0,5.0
+2025-02-09,U108,UX Design,Design,Kateryna,South America,Laptop,5,107,2,2,1,100,1,6.0
+2025-02-02,U040,UX Design,Design,Kateryna,Europe,Laptop,0,106,1,0,0,120,0,
+2025-04-24,U025,Python Basics,Programming,Andrii,Europe,Desktop,3,120,1,1,0,100,0,9.0
+2025-04-18,U017,Data Analytics,Analytics,Olena,Asia,Laptop,1,79,2,2,1,0,0,5.0
+2025-01-13,U065,Machine Learning Intro,Analytics,Olena,Europe,Desktop,2,55,1,1,0,100,0,4.0
+2025-03-19,U103,Data Analytics,Analytics,Olena,Europe,Laptop,1,115,3,2,0,0,0,8.0
+2025-04-03,U075,Data Analytics,Analytics,Olena,Europe,Mobile,1,87,1,1,0,150,0,7.0
+2025-02-24,U119,Machine Learning Intro,Analytics,Olena,North America,Mobile,2,90,3,3,0,150,0,9.0
+2025-03-13,U096,UI Design,Design,Kateryna,Europe,Desktop,6,67,0,0,0,100,0,7.0
+2025-04-29,U114,UI Design,Design,Kateryna,Europe,Laptop,4,55,0,0,0,120,0,7.0
+2025-04-24,U020,Data Analytics,Analytics,Olena,Asia,Laptop,0,24,1,1,0,0,0,
+2025-04-29,U017,Data Analytics,Analytics,Olena,Europe,Mobile,3,103,0,0,0,120,0,3.0
+2025-04-06,U090,Machine Learning Intro,Analytics,Olena,North America,Mobile,4,22,2,2,1,0,0,9.0
+2025-02-06,U050,SQL Fundamentals,Analytics,Dmytro,South America,Laptop,0,111,2,1,0,0,0,
+2025-02-15,U056,UI Design,Design,Kateryna,Asia,Laptop,0,36,1,1,1,0,0,
+2025-03-25,U018,UX Design,Design,Kateryna,Asia,Desktop,8,77,0,0,0,100,0,5.0
+2025-03-05,U083,UI Design,Design,Kateryna,Europe,Desktop,2,66,1,1,0,100,0,6.0
+2025-01-24,U055,Data Analytics,Analytics,Olena,Europe,Laptop,4,36,2,2,0,0,0,7.0
+2025-02-08,U088,Data Analytics,Analytics,Olena,North America,Mobile,1,89,2,1,0,0,0,5.0
+2025-01-29,U066,UX Design,Design,Kateryna,Europe,Desktop,1,62,3,2,0,150,0,7.0
+2025-01-26,U071,Data Analytics,Analytics,Olena,Europe,Laptop,3,73,0,0,0,100,0,4.0
+2025-01-10,U092,Python Basics,Programming,Andrii,Europe,Laptop,1,98,2,2,0,120,0,7.0
+2025-01-17,U086,UX Design,Design,Kateryna,Europe,Laptop,1,91,3,3,0,100,1,8.0
+2025-02-25,U100,Data Analytics,Analytics,Olena,Europe,Laptop,2,104,2,1,0,0,0,4.0
+2025-01-22,U046,Data Analytics,Analytics,Olena,Asia,Desktop,2,48,0,0,0,120,0,8.0
